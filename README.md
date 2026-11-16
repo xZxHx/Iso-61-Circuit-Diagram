@@ -1,3 +1,6 @@
+
+##############################################################################################################
+
 *German / Deutsch:*
 
 Dieser Schaltplan für das Isolationsmessgerät Iso 61 von VEB Messtechnik Mellenbach wurde überwiegend selbst erstellt, bis auf die Stromversorgungs/Ladeschaltung, welche nach einem im Internet kursierendem Teilschaltplan nachgezeichnet wurde.
@@ -7,6 +10,8 @@ Das Gerät hat 2 Bedienelemente:
 2. Einen 7-Positions-Drehschalter (SW2-A-D) für die Wahl des Betriebsmodus mit einem zusätzlichen Schließerkontakt (SW2-E) im negativen Stromversorgungspfad
 
 Zusätzlich lassen sich über die vier auf der Hochspannungsleiterplatte liegenden Trimmpotis Bauteilabweichungen, die zu falschen Widerstandsmessungen führen würden, beheben.
+
+##############################################################################################################
 
 *English:*
 
