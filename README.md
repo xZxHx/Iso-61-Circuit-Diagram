@@ -1,7 +1,6 @@
-
-##############################################################################################################
-
+#######################################
 *German / Deutsch:*
+#######################################
 
 Dieser Schaltplan für das Isolationsmessgerät Iso 61 von VEB Messtechnik Mellenbach wurde überwiegend selbst erstellt, bis auf die Stromversorgungs/Ladeschaltung, welche nach einem im Internet kursierendem Teilschaltplan nachgezeichnet wurde.
 
@@ -11,9 +10,10 @@ Das Gerät hat 2 Bedienelemente:
 
 Zusätzlich lassen sich über die vier auf der Hochspannungsleiterplatte liegenden Trimmpotis Bauteilabweichungen, die zu falschen Widerstandsmessungen führen würden, beheben.
 
-##############################################################################################################
 
+#######################################
 *English:*
+#######################################
 
 This Circuit Diagramm for the isolation tester Iso 61 of VEB Messtechnik Mellenbach (former GDR) was mainly created by tracing internal PCBs and wiring, except for the power supply / battery charge sub-circuit, which was redrawn after a schematic found elsewhere online.
 
